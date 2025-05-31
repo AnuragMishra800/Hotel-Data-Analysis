@@ -45,7 +45,7 @@ They hired a third-party analytics team (us!) to study their 4-month booking dat
 ## 📽️ Project Walkthrough
 
 🎬 Watch the full presentation here:  
-[👉 YouTube Link](https://youtu.be/W4ZmSKyeqDg?si=OWcpE4P4YRgqlUtB)
+[👉 YouTube Link](https://youtu.be/Q1ep7XTSamI?si=O7cZzTynnr6Aa-u8)
 
 ---
 
