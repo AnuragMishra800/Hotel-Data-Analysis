@@ -69,14 +69,15 @@ This challenge helped me apply Excel, Power Query, and business logic to real-wo
 
 ---
 
-## 💬 Feedback
+📬 Contact
 
-Your feedback and suggestions are most welcome!  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or drop a ⭐ on the repo if you found it helpful!
+🌐 LinkedIn https://www.linkedin.com/in/anurag-mishra-b17051288/
+
+📧 anuragmishrably800@gmail.com
 
 ---
 
-## 📌 Tags
+Let me know if you want this saved as a file or want help building the folder structure (`assets`, `sql`, `data`, `reports`) too. Happy to help with that next.
 
-`#Excel` `#Dashboard` `#HotelAnalytics` `#PowerQuery` `#DataCleaning` `#CodebasicsProject` `#ResumeProject` `#HospitalityAnalytics` `#DataStorytelling` `#DataAnalysis`
-
+Thank you for your support, and I look forward to connecting with you!
+And don't hesitate to give me suggestions for better improvment.
